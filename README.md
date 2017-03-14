@@ -6,9 +6,7 @@ It use AES method to encrypt  **String** or **File**
 
 you can import the library use cocoapods:
 
-~~~
-
-~~~
+> The library for cocoapods can't used now, I will complete it soon;
 
 or  
 
@@ -18,7 +16,7 @@ you can download the project source and compile a framework for you;
 
 ### Encrypt or decrypt string or data
 
-you can use ***OPEncryptUtil*** class for encrypt or decrypt for string or data,it's provider four methods :
+you can use ***OPEncryptUtil*** class for encrypt or decrypt for string or data,it provide four methods :
 
 ~~~objective-c
 + (NSString*)encryptString:(NSString*)string key:(NSString*)key;
