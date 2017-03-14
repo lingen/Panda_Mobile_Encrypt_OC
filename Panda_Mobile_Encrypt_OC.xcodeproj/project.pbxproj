@@ -125,10 +125,10 @@
 		67E6CD801E77E8B1007E5CE9 /* Main */ = {
 			isa = PBXGroup;
 			children = (
+				67E6CD931E77E93F007E5CE9 /* OPEncryptUtil.h */,
 				67E6CD921E77E93F007E5CE9 /* OPEncryptUtil.m */,
 				67E6CD8F1E77E91F007E5CE9 /* OPEFileEncrypt.m */,
 				67E6CD8E1E77E91F007E5CE9 /* OPEFileEncrypt.h */,
-				67E6CD931E77E93F007E5CE9 /* OPEncryptUtil.h */,
 				67E6CD961E77E997007E5CE9 /* OPEMD5Util.h */,
 				67E6CD971E77E997007E5CE9 /* OPEMD5Util.m */,
 			);
@@ -458,6 +458,7 @@
 				67E6CD6D1E77E783007E5CE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		67E6CD6E1E77E783007E5CE9 /* Build configuration list for PBXNativeTarget "Panda_Mobile_Encrypt_OCTests" */ = {
 			isa = XCConfigurationList;
@@ -466,6 +467,7 @@
 				67E6CD701E77E783007E5CE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
