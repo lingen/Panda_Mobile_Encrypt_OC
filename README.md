@@ -10,9 +10,9 @@ you can import the library use cocoapods:
 
 ~~~
 
-or 
+or  
 
-you can download the latest library framework file here
+you can download the project source and compile a framework for you;
 
 ## How to use
 
